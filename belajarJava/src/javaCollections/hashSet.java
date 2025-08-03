@@ -3,7 +3,7 @@ package javaCollections;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class hasSet {
+public class hashSet {
     public static void main(String[] args) {
         /*
         HashSet treeset, LinkedHasset implements Set Interface
