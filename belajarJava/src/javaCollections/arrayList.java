@@ -2,12 +2,16 @@ package javaCollections;
 
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 /*
 List can accept duplicate values
  */
 public class arrayList {
+
+    public void abc(){
+        System.out.println("hello");
+    }
+
     public static void main(String[] args) {
         ArrayList<String> a = new ArrayList<String>();
         a.add("test");
@@ -30,4 +34,6 @@ public class arrayList {
             System.out.println(name);
         }
     }
+
+
 }
